@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ2201SN-N
+D BQ2201SN-N, SRAM Controller Unit Surface Mount, -40  +85 C, 8-Pin, SOIC
+K
+F http://www.ti.com/lit/gpn/BQ2201
+$ENDCMP
+#
+#End Doc Library

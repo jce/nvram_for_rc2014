@@ -1,0 +1,16 @@
+.BQ2201SN-N :1 ;BQ2201SN-N, SRAM Controller Unit Surface Mount, -40  +85 C, 8-Pin, SOIC
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="VOUT" 2="BC2" 3="THS" 4="VSS" 5="'CE'" 6="'CECON'" 7="BC1" 8="VCC"
+*MXP 8
+*DFN BQ2201SN-N
+~!Mouser Part Number (595-BQ2201SN-N)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=595-BQ2201SN-N)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (BQ2201SN-N)
+~!Link Datasheet (http://www.ti.com/lit/gpn/BQ2201)
+~!Height (1.75mm)
+~!3D_Model (BQ2201SN-N)
+BQ2201SN-N
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

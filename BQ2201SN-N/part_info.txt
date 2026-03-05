@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=BQ2201SN-N
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2021-03-29 03:31:41
+Downloaded=2026-02-19 13:14:32
+3D=Y
