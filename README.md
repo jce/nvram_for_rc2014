@@ -7,4 +7,4 @@ Errata since building of the V 1.0 proto:
 - IC types are not on silkscreen
 - Pull up resistor value is missing: 10K
 - Partlist missing
-
+- Ground issues. Bridge some ground planes if you want to use this proto!
