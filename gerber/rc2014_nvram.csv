@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U5";"DIP-14_W7.62mm_Socket_LongPads";1;"74HTC32";;;
+2;"U1,U2";"DIP-28_W15.24mm";2;"CY62256-70PC";;;
+3;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"10K";;;
+4;"U6";"DIP-14_W7.62mm_Socket_LongPads";1;"74HCT04";;;
+5;"Z80_BUS1";"PinHeader_1x40_P2.54mm_Horizontal";1;"~";;;
+6;"BT1";"ER14505";1;"Battery_Cell";;;
+7;"C3,C1,C4,C2";"C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02";4;"C";;;
+8;"U3,U4";"SOIC127P600X175-8N";2;"BQ2201SN";;;

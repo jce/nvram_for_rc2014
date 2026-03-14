@@ -13,3 +13,5 @@
 *.net
 *-cache.lib
 *-rescue.lib
+
+rc2014_nvram-backups/
