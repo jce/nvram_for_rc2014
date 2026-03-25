@@ -3,7 +3,7 @@ Pages the lower 32K out when the ROM module is present. Does not forget its cont
 
 <img src="IMG_20260324_112853_093.jpg" alt="PCB 1.1 front" width="600" height="400">
 <img src="IMG_20260324_112924_110.jpg" alt="PCB 1.1 back" width="600" height="400">
-<img src="Screenshot at 2026-03-14 12-39-45.png" alt="PCB 1.1 kicad" width="600" height="400">
+<img src="Screenshot at 2026-03-25 11-48-28.png" alt="PCB 1.1 kicad" width="600" height="400">
 
 Errata for building pcb V 1.1 (actual, and in picture):
 - Typo in ic name: 74HTC32 should be 74HCT32
